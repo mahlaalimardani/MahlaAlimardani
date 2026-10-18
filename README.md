@@ -4,8 +4,6 @@ About Me
 
 I have a background in Artificial Intelligence and Mathematical Statistics, with interests in Machine Learning, Deep Learning, Medical AI, and Conversational AI.
 
-CV
-https://raw.githubusercontent.com/mahlaalimardani/MahlaAlimardani/main/Mahla_Alimardani_CV.pdf
 
 Projects
 
