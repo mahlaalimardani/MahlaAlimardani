@@ -2,8 +2,11 @@
 
 About Me
 
-I have a background in Artificial Intelligence and Mathematical Statistics, with interests in Machine Learning, Deep Learning, Medical AI, and Conversational AI.
+I’m an AI engineer with an M.Sc. in Artificial Intelligence and an M.Sc. in Mathematical Statistics. I build end-to-end data and machine learning pipelines in Python, from data cleaning and validation to model training and evaluation.
 
+Focus areas: Data Engineering & Analytics · Machine Learning & Deep Learning · Medical AI & Explainable AI
+
+Tech: Python, SQL, R, PyTorch, Pandas, NumPy, Git
 
 Projects
 
