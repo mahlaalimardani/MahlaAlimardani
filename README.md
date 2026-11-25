@@ -6,7 +6,7 @@ I’m an AI engineer with an M.Sc. in Artificial Intelligence and an M.Sc. in Ma
 
 Focus areas: Data Engineering & Analytics · Machine Learning & Deep Learning · Medical AI & Explainable AI
 
-Tech: Python, SQL, R, PyTorch, Pandas, NumPy, Git, C++, Java, Julia
+Tech: Python, SQL, R, C++, Java, Julia, PyTorch, Pandas, NumPy, Git
 
 Projects
 
