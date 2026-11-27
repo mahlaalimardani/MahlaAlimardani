@@ -24,7 +24,7 @@ An explainable AI project for breast cancer diagnosis using mammography images a
 [View Project on GitHub](https://github.com/mahlaalimardani/mammo-xai-api)
 
 
-[View Weights on Google drive](https://drive.google.com/drive/folders/1AGOn7OPYui2LdTp65k8Ref7JWSiPeIOx?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
+[Download the model weights from](https://drive.google.com/drive/folders/1AGOn7OPYui2LdTp65k8Ref7JWSiPeIOx?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
 
 
 3. Machine Learning
